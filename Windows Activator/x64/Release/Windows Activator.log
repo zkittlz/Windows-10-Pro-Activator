@@ -1,0 +1,8 @@
+﻿  Windows Activator.cpp
+C:\Users\Jonas\source\repos\Windows Activator\Windows Activator\Windows Activator.cpp(16,18): warning C4129: '/': unrecognized character escape sequence
+C:\Users\Jonas\source\repos\Windows Activator\Windows Activator\Windows Activator.cpp(18,18): warning C4129: '_': unrecognized character escape sequence
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Windows Activator.vcxproj -> C:\Users\Jonas\source\repos\Windows Activator\x64\Release\Windows Activator.exe
